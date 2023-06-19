@@ -6,5 +6,8 @@ voisTUTOR is a mobile and web application which enables the user to improve thei
 3. Constructing and managing a MySQL database for efficient data storage and retrieval
 
 ## How to Run Code
-
+- To run the React Native app `App.js`, first ensure that `Node.js` and `npm` are both installed on your system. For the project dependencies, run `npm install`.
+- Once the dependencies are installed, run the following command to launch the Android emulator: 
+`npx react-native run-android`
+This command will compile the app's code and launch it in the Android emulator or device. 
 
